@@ -1,6 +1,6 @@
 JavaScript Algorithms and Data Structures
 Basic JavaScript
------------------------------------------------------------------
+---------------------------*****--------------------------------------
 Record Collection
 You are given an object literal representing a part of your musical album collection. 
 Each album has a unique id number as its key and several other properties. 
